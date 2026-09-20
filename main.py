@@ -31,8 +31,8 @@ else:
     print(f"City         : {city_name}")
     print(f"Country      : {country}")
 
-    print(f"Temperature  : {temperature} °C")
-    print(f"Feels Like   : {feels_like} °C")
+    print(f"Temperature  : {temperature} degC")
+    print(f"Feels Like   : {feels_like} degC")
 
     print(f"Humidity     : {humidity}%")
     print(f"Pressure     : {pressure} hPa")
